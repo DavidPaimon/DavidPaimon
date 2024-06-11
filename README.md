@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Felipe Florido Jiménez</h1>
-<h3 align="center">I'm a full stack developer inclined towards backend or design, from Colombia, willing to learn much more.</h3>
+<h3 align="center">I'm a full stack developer inclined towards backend, from Colombia, willing to learn much more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpaimon" alt="davidpaimon" /></a> </p>
 
