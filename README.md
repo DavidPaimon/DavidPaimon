@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpaimon" alt="davidpaimon" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript and MongoDB**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [NomadLocals](https://nomadlocals.netlify.app/)
 
