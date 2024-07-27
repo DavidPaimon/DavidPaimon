@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [NomadLocals](https://nomadlocals.netlify.app/)
-
 - 💬 Ask me about **react** and **node.js**
 
 - 📫 How to reach me **davidfelipe.fj@gmail.com**
